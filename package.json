@@ -1,0 +1,16 @@
+{
+  "name": "textarea-autocomplete-demo",
+  "version": "1.0.0",
+  "description": "Demo code illustrating how to do an autocomplete dropdown inside a textarea with Algolia",
+  "main": "",
+  "scripts": {
+    "serve": "./scripts/serve",
+    "build": "./scripts/build",
+    "deploy": "./scripts/deploy"
+  },
+  "author": "Algolia",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
