@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+gh-pages --dist . --branch gh-pages
